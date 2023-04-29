@@ -55,6 +55,10 @@ const { stringify } = require("git-url-parse")
 // (el guion es el separador que le pusimos, puede ser cualquier cosa o simplemente no tener separador)
 
 
+/// length devuelve esl largo de una lista ej: let lista=[0,1,2]
+
+// lista.length  el resultado sera 3 porqeu tiene 3 elementos 0,1 y 2
+
 //ejercicio1***********
 // se da una lista de frutas , crear una funcion que reciba como 
 // parametros  la lista y una fruta que se desea añadir
@@ -84,8 +88,11 @@ let nombres =["maria","juan","sofia","teresa","camilo","karen"]
 
 let frase=["hola","te","amo"]
 
-// console.log(frase.join("@"))
+console.log(frase.join("@"))
 
+
+///retoo
+//  crear una funcion que  reciba un numero retorne true si tiene 3 dígitos. Caso contrario, retorna false.
 
 
 
