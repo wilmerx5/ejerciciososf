@@ -88,7 +88,6 @@ let nombres =["maria","juan","sofia","teresa","camilo","karen"]
 
 let frase=["hola","te","amo"]
 
-console.log(frase.join("@"))
 
 
 ///retoo
